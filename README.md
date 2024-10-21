@@ -20,8 +20,9 @@ A simple and user-friendly **Task Manager Web Application** built with **HTML**,
 
 ## Demo
 
-Check out the live demo of the app [here]([#](https://KithM4.github.io/task-manager/
-)).
+Check out the live demo of the app [[here](https://KithM4.github.io/task-manager/
+)]
+
 
 ## Technologies Used
 
