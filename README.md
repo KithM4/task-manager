@@ -58,8 +58,5 @@ Contributions are welcome! Here’s how you can help:
 This project is licensed under the MIT License.
 
 
-#Enjoy managing your tasks efficiently!
-
-
 
 
