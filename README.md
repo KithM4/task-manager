@@ -1,8 +1,10 @@
 # Task Manager Web App
 
+
 A simple and user-friendly **Task Manager Web Application** built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. The app allows users to efficiently manage their daily tasks with features to add, edit, complete, delete, and filter tasks. It’s designed with a mobile-first approach for a seamless experience on both desktops and mobile devices.
 
-![Task Manager Screenshot] ![Screenshot (164)](https://github.com/user-attachments/assets/e72c4951-de6d-49cf-bd44-9df5b07febc5)
+
+![Screenshot (164)](https://github.com/user-attachments/assets/e72c4951-de6d-49cf-bd44-9df5b07febc5)
 
 
 
@@ -56,9 +58,8 @@ Contributions are welcome! Here’s how you can help:
 This project is licensed under the MIT License.
 
 
-Enjoy managing your tasks efficiently!
+#Enjoy managing your tasks efficiently!
 
 
-This version removes the setup instructions section as per your request. Let me know if you need any other changes!
 
 
